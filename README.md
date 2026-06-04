@@ -1,4 +1,7 @@
+# fire-sim
 ![Static Badge](https://img.shields.io/badge/OpenGL-grey?style=plastic&logo=OpenGL)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-grey?style=plastic&logo=C%2B%2B)
+
 
 ### Particle System 
 ---
