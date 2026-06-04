@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/OpenGL-grey?style=plastic&logo=OpenGL)
+
 ### Particle System 
 ---
 This repository, based on OpenGL and C++, is for a Computer Graphics course.
